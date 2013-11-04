@@ -21,3 +21,6 @@ FORMS    += mainwindow.ui
 
 RESOURCES += \
     music.qrc
+
+OTHER_FILES += \
+    Track1.mp3
