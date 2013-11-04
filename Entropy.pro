@@ -23,4 +23,6 @@ RESOURCES += \
     music.qrc
 
 OTHER_FILES += \
-    Track1.mp3
+    Track1.mp3 \
+    LICENSE \
+    README.md
